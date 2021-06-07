@@ -1,4 +1,0 @@
-#Tomcat publish data
-#Sun Jun 06 22:44:22 ICT 2021
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\asus\\.m2\\repository\\org\\springframework\\spring-web\\5.0.2.RELEASE\\spring-web-5.0.2.RELEASE.jar=WEB-INF/lib/spring-web-5.0.2.RELEASE.jar
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\asus\\.m2\\repository\\org\\springframework\\spring-web\\4.3.13.RELEASE\\spring-web-4.3.13.RELEASE.jar=WEB-INF/lib/spring-web-4.3.13.RELEASE.jar
