@@ -1,0 +1,20 @@
+package DocterController;
+
+import static org.junit.Assert.*;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class DocterControllerTest {
+	DocterController doctorTest = new DocterController();
+	@Test
+	public void testInputRightFormat() {
+		String expResult = "Hung";
+		String result = doctorTest.getName();
+		if(expResult.equals(result)) {
+			Assert.assertEquals(expResult,result);
+		}else {
+			fail("");
+		}
+	}
+}

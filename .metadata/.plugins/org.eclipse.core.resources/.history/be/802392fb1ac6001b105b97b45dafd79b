@@ -1,0 +1,5 @@
+package com.anomation.config;
+
+public class MyWebInitizlizer {
+
+}

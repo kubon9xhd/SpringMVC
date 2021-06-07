@@ -1,0 +1,5 @@
+package com.anomation;
+
+public class HomeController {
+
+}

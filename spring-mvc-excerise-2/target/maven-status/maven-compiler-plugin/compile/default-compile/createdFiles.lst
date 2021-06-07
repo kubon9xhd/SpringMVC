@@ -1,0 +1,3 @@
+com\kubon\controller\HomeController.class
+com\kubon\webconfig\MyWebInitializer.class
+com\kubon\webconfig\SpringWebConfig.class
